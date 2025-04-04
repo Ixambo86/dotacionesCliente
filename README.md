@@ -1,12 +1,23 @@
-# React + Vite
+# 📊 Dotaciones por Turno - Aplicación con React y Firebase
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Esta es una aplicación web desarrollada en **React JS** que permite visualizar la dotación de personal en diferentes líneas de producción y turnos. También cuenta con una sección con ausentismo y un módulo especial para el equipo **UAP** (Calidad, Seguridad y Lean).
 
-Currently, two official plugins are available:
+## 🚀 Características principales
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+✅ **Visualización de dotaciones** en 4 líneas de producción con 3 turnos (mañana, tarde y noche).  
+✅ **Ausentismo** con motivo (Vacaciones o Licencia).  
+✅ **Módulo UAP** para Calidad, Seguridad y Lean.  
+✅ **Base de datos en Firebase** Lectura de datos al actualizar.  
+✅ **Diseño moderno y responsivo** para adaptarse a dispositivos móviles y tablets.  
 
-## Expanding the ESLint configuration
+🖥️ Tecnologías utilizadas
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+React JS - Framework de JavaScript para interfaces dinámicas.
+
+Firebase Firestore - Base de datos en tiempo real para almacenar información.
+
+CSS Clásico - Estilos personalizados para un diseño moderno.
+
+HTML5 - Estructura de la aplicación.
+
+JavaScript (ES6+) - Lógica de la aplicación.
